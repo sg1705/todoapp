@@ -6,8 +6,7 @@
 			[
 				".tmp",
 				"node_modules",
-				"bower_components",
-				"dist"
+				"bower_components"
 			],
 			"path": "."
 		}
