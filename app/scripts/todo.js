@@ -1,5 +1,7 @@
 class Todo {
-    constructor(config) {
-        (this.name, this.assignee, this.creator) = config;
+    constructor(name, assignee, creator) {
+        this.name = name;
+        this.assignee = assignee;
+        this.creator = creator;
     }
 }
