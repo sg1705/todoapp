@@ -1,0 +1,1437 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"hostSw",
+				"hostSwitchView	EditTransportNodeDialog.js"
+			],
+			[
+				"hostS",
+				"hostSwitchType	AddHostSwitch.js"
+			],
+			[
+				"getPo",
+				"getPort()	Gruntfile.js"
+			],
+			[
+				"nsxVa",
+				"nsxvaIP	serve.js"
+			],
+			[
+				"toLo",
+				"toLowerCase()"
+			],
+			[
+				"member",
+				"memberExpressionToString(node, str)	nsx-ext-dependency.js"
+			],
+			[
+				"syste",
+				"systemLoadUpVal	ClusterContainer.js"
+			],
+			[
+				"system",
+				"systemLoadDownVal	ClusterContainer.js"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"tzE",
+				"tzEndpoints	EditTransportNodeDialog.js"
+			],
+			[
+				"transportZo",
+				"transportZoneEndPoints	AddToTransportZoneDialog.js"
+			],
+			[
+				"ifPro",
+				"ifProps	ClusterContainer.js"
+			],
+			[
+				"act",
+				"activate()	ext-all-debug-ORG.js"
+			],
+			[
+				"userInputL",
+				"userInputList	FabricNodeStateGrid.js"
+			],
+			[
+				"response",
+				"responseText"
+			],
+			[
+				"search",
+				"searchResults"
+			],
+			[
+				"sear",
+				"searchResults"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"mi",
+				"migrantData"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"Link",
+				"LinkAnnotation"
+			],
+			[
+				"count",
+				"countValues"
+			],
+			[
+				"roll",
+				"rollbackTransaction"
+			],
+			[
+				"begin",
+				"beginNewTransaction"
+			],
+			[
+				"delete",
+				"deleteVariable"
+			],
+			[
+				"pro",
+				"React.PropTypes.array"
+			],
+			[
+				"handle",
+				"handleHoverIn"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"append",
+				"appendChild"
+			],
+			[
+				"fo",
+				"focusedIndex"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"ite",
+				"items"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"au",
+				"autocomplete"
+			],
+			[
+				"each",
+				"Each"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 206.0,
+		"last_filter": "java",
+		"selected_items":
+		[
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"git bl",
+				"Git: Blame"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"jva",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"git ",
+				"Git: Blame"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"js",
+				"JSCS Formatter: Format this file"
+			],
+			[
+				"git bla",
+				"Git: Blame"
+			],
+			[
+				"forma",
+				"JSCS Formatter: Format this file"
+			],
+			[
+				"git",
+				"Git: Blame"
+			],
+			[
+				"git blame",
+				"Git: Blame"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"define sy",
+				"Package Syncing: Define Sync Folder"
+			],
+			[
+				"package sync",
+				"Package Syncing: Disable Syncing"
+			],
+			[
+				"git balme",
+				"Git: Blame"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"doc",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"comment",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"javasc",
+				"Format: Javascript"
+			],
+			[
+				"javas",
+				"Javascript Beautify"
+			],
+			[
+				"git checkout",
+				"Git: Checkout Current File"
+			],
+			[
+				"git check",
+				"Git: Checkout Current File"
+			],
+			[
+				"j",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"for",
+				"JSCS Formatter: Format this file"
+			],
+			[
+				"jscs",
+				"JSCS Formatter: Format this file"
+			],
+			[
+				"git checkou",
+				"Git: Checkout Current File"
+			],
+			[
+				"git diff c",
+				"Git: Diff Current File"
+			],
+			[
+				"git l",
+				"Git: Log Current File"
+			],
+			[
+				"git log",
+				"Git: Log Current File"
+			],
+			[
+				"sass",
+				"SassBeautify"
+			],
+			[
+				"beau",
+				"SassBeautify"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"inden",
+				"IndentX: Indent"
+			],
+			[
+				"git blam",
+				"Git: Blame"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"blame",
+				"Set Syntax: Git Blame"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"git b",
+				"Git: Blame"
+			],
+			[
+				"find",
+				"Find: In Current Folder"
+			],
+			[
+				"inde",
+				"IndentX: Indent"
+			],
+			[
+				"git show",
+				"Git: Show Current File"
+			],
+			[
+				"git lo",
+				"Git: Log Current File"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"slate",
+				"Set Syntax: Slate"
+			],
+			[
+				"package sy",
+				"Package Syncing: Push Settings"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"list p",
+				"Package Control: List Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"packages",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"prefix",
+				"Autoprefix CSS"
+			],
+			[
+				"lint",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"syn javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"prefi",
+				"Autoprefix CSS"
+			],
+			[
+				"snippet",
+				"Snippet: @for"
+			],
+			[
+				"snippet for",
+				"Snippet: forEach"
+			],
+			[
+				"snipper",
+				"Snippet: jQuery AJAX call"
+			],
+			[
+				"Snippet",
+				"Snippet: Prototype"
+			],
+			[
+				"Snippet:",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"toggle",
+				"Toggle Comment"
+			],
+			[
+				"t oggle",
+				"Toggle Comment"
+			],
+			[
+				"sidebar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			]
+		],
+		"width": 507.0
+	},
+	"console":
+	{
+		"height": 759.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import sublime_plugin",
+			"import sublime",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/shobhitg/dev/rxjs/todoapp"
+	],
+	"file_history":
+	[
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/view/transportnodes/AddHostSwitchNoAutomation.js",
+		"/Users/shobhitg/src/nsx/mp/proton/nsx-api/src/main/resources/api_spec/root/nsx-switching/transportnode.yml",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/objectLibrary/js/view/ipsets/AddEditIpSetDialog.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/nsx/js/util/ValidatorUtil.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/nsx/js/vtype/IPAddressCidrIPListValidator.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/routing/js/view/nat/AddEditNATRule.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/libs/ext-all-debug-6.0.2.437-nsx.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/admin/js/controller/SupportBundleController.js",
+		"/Users/shobhitg/src/nsx/mp/proton/nsx-api/src/main/resources/api_spec/root/ui/l3.yml",
+		"/Users/shobhitg/src/nsx/mp/ui/mock/templates/transportNodes.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/view/hosts/CreateTransportNodeDialog.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/view/transportnodes/EditTransportNodeDialog.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/objectLibrary/js/view/ippools/AddEditIpPoolDialog.js",
+		"/Users/shobhitg/src/nsx/mp/proton/nsx-api/src/main/resources/api_spec/root/nsx-search/search.yml",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/admin/js/store/clustermanagement/ClustersAggregateInfoStore.js",
+		"/Users/shobhitg/src/nsx/mp/ui/mock/utils.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/locale/en_US/fabricRB.properties",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/objectLibrary/js/model/IpPoolsModel.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/view/transportnodes/AddToTransportZoneDialog.js",
+		"/Users/shobhitg/Downloads/proton-1.0-3736824/nsx-all.min.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/model/hostswitch/HostSwitch.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/switching/js/view/switches/AddEditDialog.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/switching/js/view/ports/AddEditDialog.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/objectLibrary/js/controller/IpPoolsController.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/objectLibrary/js/ObjectLibraryConst.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/view/transportnodes/IPPoolsCombo.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/nsx/js/app.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/view/transportnodes/AddHostSwitch.js",
+		"/Users/shobhitg/src/nsx-ui.sublime-project",
+		"/Users/shobhitg/src/nsx-ui.sublime-workspace",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/FabricModule.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/policy/js/view/Main.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/model/hostswitch/StandardHostSwitchSpec.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/model/hostswitch/StandardHostSwitch.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/model/hostswitch/PreconfiguredHostSwitch.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/model/hostswitch/HostSwitchSpec.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/model/hostswitch/PreconfiguredHostSwitchSpec.js",
+		"/Users/shobhitg/src/nsx/mp/ui/mock/templates/host.js",
+		"/Users/shobhitg/src/nsx/mp/ui/pom.xml",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/objectLibrary/js/store/IpPoolsStore.js",
+		"/Users/shobhitg/src/nsx/mp/ui/package.json",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/switching/js/controller/SwitchingController.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/routing/js/common/LogicalSwitchCombo.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/switching/js/model/L2SwitchDesiredModel.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/switching/js/store/L2SwitchNonAggregatedStore.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/common/js/components/objectselector/ObjectSelector.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/switching/js/store/L2PortStore.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/routing/js/controller/RouterPortController.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/routing/js/view/routerports/AddEditRouterPort.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/nsx/js/misc/Const.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/common/js/view/BaseDialog.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/switching/js/SwitchingConst.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/objectLibrary/js/view/ippools/IpPoolSubnetsGrid.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/admin/js/view/overview/ClusterContainer.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/objectLibrary/ObjectLibraryModule.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/objectLibrary/js/view/ippools/IpPoolAddEditSubnetsGrid.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/objectLibrary/js/view/ippools/IpPoolsGrid.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/common/js/view/BaseInlineEditGridView.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/common/js/view/BaseViewMixin.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/objectLibrary/js/view/ippools/Main.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/nsx/js/misc/Glyphs.js",
+		"/Users/shobhitg/Downloads/proton123/nsx-all.min.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/view/transportnodes/AddTransportNodeDialog.js",
+		"/Users/shobhitg/src/nsx/mp/proton/nsx-api/src/main/resources/api_spec/root/id-allocation/ip-pools.yml",
+		"/Users/shobhitg/src/nsx/mp/ui/mock/serve.js",
+		"/Users/shobhitg/src/nsx/mp/ui/.jshintrc",
+		"/Users/shobhitg/src/nsx/mp/ui/prod/nsx-all.min.js",
+		"/Users/shobhitg/src/nsx/mp/ui/mock/mockConfig.js",
+		"/Users/shobhitg/src/nsx/mp/ui/mock/templates/clusterManagement.js",
+		"/Users/shobhitg/src/nsx/mp/proton/nsx-api/src/main/resources/api_spec/root/inventory-mgmt/inventory-mgmt-vms-vifs.yml",
+		"/Users/shobhitg/src/nsx/mp/common/src/main/resources/api_spec/types.yml",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/model/hostswitch/IpAssignmentSpec.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/model/hostswitch/IPAddress.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/admin/js/view/backup/EditBackupConfigDialog.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/model/hostswitch/StaticIpListSpec.js",
+		"/Users/shobhitg/src/nsx/mp/proton/nsx-api/src/main/resources/api_spec/root/ui/ui.yml",
+		"/Users/shobhitg/src/nsx/mp/proton/nsx-api/src/main/resources/api_spec/root/fabric/fabric-nodes.yml",
+		"/Users/shobhitg/src/nsx/mp/proton/nsx-api/src/main/resources/api_spec/root/nsx-query/nsx-query.yml",
+		"/Users/shobhitg/src/nsx/mp/ui/cookieFetcher.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/model/transportnodes/TransportNode.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/view/bridgeclusters/TransportNodeGrid.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/view/transportnodes/GridView.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/controller/FabricController.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/model/transportnodes/TransportNodeAggInfo.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/model/hostswitch/AssignedByDhcp.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/model/hostswitch/StaticIpPoolSpec.js",
+		"/Users/shobhitg/src/nsx/mp/ui/Gruntfile.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/model/uplinkprofiles/UplinkHostSwitchProfileDto.js",
+		"/Users/shobhitg/src/nsx/mp/proton/nsx-api/src/main/resources/api_spec/root/nsx-switching/hostswitch-profile/base-hostswitch-profile.yml",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/store/uplinkprofiles/UplinkProfileStore.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/view/hosts/PhysicalNicContainer.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/index.html",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/model/hostswitch/PreconfiguredEndpoint.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/view/hosts/GridView.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/switching/js/view/BaseEditorManageProfile.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/view/uplinkprofiles/AddEditUplinkProfileDialog.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/model/hostswitch/StaticIpSpec.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/view/hosts/AddHostDialog.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/tool/js/view/apiHelper/SectionURLTokens.js",
+		"/Users/shobhitg/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/admin/js/view/authentication/TacacsAddEditDialog.js",
+		"/Users/shobhitg/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/shobhitg/src/nsx/mp/ui/mock/templates/hpm.js",
+		"/Users/shobhitg/src/nsx/mp/ui/mock/templates/firewalling.js",
+		"/Users/shobhitg/src/nsx/mp/ui/mock/templates/edgeClusters.js",
+		"/Users/shobhitg/src/nsx/mp/ui/mock/templates/controllerNodes.js",
+		"/Users/shobhitg/src/nsx/mp/ui/mock/templates/bridging.js",
+		"/Users/shobhitg/src/nsx/mp/ui/mock/templates/fabricNodes.js",
+		"/Users/shobhitg/src/nsx/mp/ui/mock/templates/ipPools.js",
+		"/Users/shobhitg/src/nsx/mp/ui/mock/templates/heatmap.js",
+		"/Users/shobhitg/Dropbox/sync/Sublime3/Preferences.sublime-settings",
+		"/Users/shobhitg/Library/Application Support/Sublime Text 3/Installed Packages/Package Control.sublime-package",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/model/transportnodes/EndPoint.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/example/js/view/eg1/L1.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/nsx/js/reader/PolymorphicJsonReader.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/view/vnipool/Main.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/model/transportnodes/HostSwitchStateDto.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/store/transportnodes/TransportNodeStore.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/model/bridgeclusters/BridgeCluster.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/switching/js/model/L2ProfileModel.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/model/hostSwitch/HostSwitchSpec.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/model/hostSwitch/StaticIpSpec.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/model/hostSwitch/StandardHostSwitchSpec.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/model/hostSwitch/PreconfiguredHostSwitchSpec.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/model/hostSwitch/StaticIpPoolSpec.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/model/hostSwitch/StaticIpListSpec.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/model/transportnodes/IPAddress.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/model/transportnodes/Pnic.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"<project>",
+			"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js",
+			"<project>",
+			"/Users/shobhitg/src/nsx/mp/ui/src/modules/objectLibrary/js/view/ippools/",
+			"<project>",
+			"/Users/shobhitg/src/nsx/mp/ui/src/modules/dne",
+			"/Users/shobhitg/src/nsx/mp/ui/src/modules/dneExt.create",
+			"<project>",
+			"/Users/shobhitg/src/nsx/mp/ui/src/modules/dne",
+			"<project>",
+			"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/view",
+			"<project>",
+			"*.yml",
+			"<project>",
+			"<project>,/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric",
+			"<project>",
+			"/Users/shobhitg/src/nsx/mp/ui/src/nsx/",
+			"/Users/shobhitg/src/nsx/mp/ui/src/modules/",
+			"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric",
+			"/Users/shobhitg/src/nsx/mp/ui/src/modules/admin",
+			"/Users/shobhitg/src/nsx/mp/ui/src/modules/switching",
+			"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric",
+			"/Users/shobhitg/src/nsx/mp/ui/src/modules",
+			"/Users/shobhitg/src/nsx/mp/ui/src/modules/switching",
+			"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric",
+			"<project>",
+			"/Users/shobhitg/src/nsx/mp/ui",
+			"<project>",
+			"<current project>",
+			"",
+			"/Users/shobhitg/src/nsx/mp/ui/src/modules/routing/js",
+			"<current folder>",
+			"<project files>",
+			"/Users/shobhitg/src/nsx/mp/common/src/main/resources/api_spec",
+			"/Users/shobhitg/src/nsx/mp/proton/nsx-api/src/main/resources/api_spec/root/",
+			"/Users/shobhitg/src/nsx/mp/proton/nsx-api/src/main/resources/api_spec/root/nsx-query/nsx-query.yml",
+			"<project files>",
+			"/Users/shobhitg/src/nsx/mp/ui/src/nsx/js/view",
+			"/Users/shobhitg/src/nsx/mp/ui/src/modules/tool/js/view/common",
+			"<project files>",
+			"<project>",
+			"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/",
+			"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/view/",
+			"<open folders>",
+			"/Users/shobhitg/dev/lunr.js/lib",
+			"/Users/shobhitg/dev/building-blocks/public/js",
+			"<project>",
+			"/Users/shobhitg/dev/pdf2json",
+			"/Users/shobhitg/dev/skroll/Archive/pdfReader/node_modules/pdf2json"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"loadUplinkProfileStore",
+			"isinitial",
+			"loadUplinkProfileStore",
+			"loaduplin",
+			"setUplinkNameList",
+			"setUplinkProfileValue",
+			"loadingMsg",
+			"uplinkName",
+			"getUplinkProfileCombo",
+			"uplinkProfileId",
+			"uplink",
+			"getUplinkProfileId",
+			"loaddata",
+			"loadUplinkProfileStore",
+			"load",
+			"loaduplink",
+			"getHostSwitchInfo",
+			"hostSwitchType",
+			"getHostSwitchInfo",
+			"info",
+			"getHostSwitchProfileIds",
+			"uplink_profile_id",
+			"getUplinkProfileCombo",
+			"uplink_profile_id",
+			"onUplinkProfileChanged",
+			"uplink_profile_id",
+			"getHostSwitchProfileIds",
+			"uplink_profile_id",
+			"getUplinkProfileId",
+			"UplinkHostSwitchProfile",
+			"getHostNodeConfigurationState",
+			"console",
+			"console.log",
+			"'Ext.form.field.Tag",
+			"'Ext.form.field.Base",
+			"('Ext.form.field.Base",
+			"Ext.form.field.Base",
+			"isvalid:",
+			"diff",
+			"natSrcIP",
+			"ipv4AddressCidrIPList",
+			"isIpv4AddressCidrIPList",
+			"isIpv4List",
+			"ipAddressCidrIpRange",
+			"vtype: 'ip",
+			"vtype: 'ipAddress'",
+			"StaticIpListSpec",
+			"StandardHostSwitch",
+			"PreconfiguredEndpoint",
+			"preconfiguredHostSwitch",
+			"StandardHostSwitch",
+			"StandardHostSwitchSpec",
+			"Standardhostswitchspec",
+			"api/v1/node/tasks",
+			"node",
+			"/api/v1/",
+			"service_name",
+			"service_properties",
+			"/node/services",
+			"NodeHttpServiceProperties",
+			"getHostSwitchViews",
+			"getPanelViews",
+			"addSwitch",
+			"validate = me.forceValidation",
+			"isValid:",
+			"isValie:",
+			"validate = me.forceValidation || !disabled;",
+			"ip_list",
+			"ipPoolContainer",
+			"isValie",
+			"Form.field.Base'",
+			"PreconfiguredEndpoint",
+			"VTEP",
+			"vtep",
+			"nsx.fabric.error.controller.list.error",
+			"controller nodes",
+			"data(",
+			"getIpAssignmentSpec",
+			"getIpAddress",
+			"ip_list",
+			".join(',')",
+			"onIpAssignmentTypeChanged",
+			"ipAssignmentType",
+			"show",
+			"hide",
+			"ip_list",
+			"ipAssignmentSpecType",
+			"ip_assignment",
+			"onIpAssignmentChanged",
+			"ipListContainer",
+			"show",
+			"hide",
+			"true",
+			"allowBlank",
+			"xtype",
+			"hostSwitchTypeGroup",
+			"ipPoolId",
+			"show",
+			"ipListContainer",
+			"nsx.fabric.view.transportnodes.AddHostSwitch.",
+			"id",
+			"hostSwitchType",
+			"ipAssignmentType",
+			"ip_assignment",
+			"ipAssignmentType",
+			"onHostSwitchTypeChanged",
+			"loadData",
+			"addhost",
+			"loaddata",
+			"hostSwitchType",
+			"onHostSwitchTypeChanged",
+			"ipAssignmentType",
+			"ip_assignment",
+			"profileStore.loadData(",
+			"profileStore.loadData( []",
+			"profileStore.loadData([]",
+			"tzone.gettr",
+			"tzone",
+			"tzone.get(\"transport_type\")",
+			"tzone",
+			"autoScroll",
+			"ip_list",
+			"false",
+			"x.fabric.view.hostswitch.ipassignm",
+			"ipassignment",
+			"t.",
+			"i18n(\"nsx.fabric.view.hostswitch.ipassignment",
+			"nsx.fabric.view.transportnodes.AddHostSwitch"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"Ext.StoreManager.get(\"nsx.dne.store.KeyPolicyStore\"",
+			"uc.common.UpgradeUtil.buildRoute(",
+			"nsxTagField",
+			"nsx.common.view.PaginatedTagField\nnsxTagField",
+			"nsx.common.view.PaginatedTagField",
+			"viewClass",
+			"\\n at ",
+			"\\n at \\n",
+			"\\n# StackTrace\\n",
+			";\\n",
+			"nsx.common.misc.StoreReloadTimer",
+			"'"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 140.0
+	},
+	"output.git":
+	{
+		"height": 140.0
+	},
+	"pinned_build_system": "",
+	"project": "todoapp.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"edittr",
+				"UI/src/modules/fabric/js/view/transportnodes/EditTransportNodeDialog.js"
+			],
+			[
+				"mockhos",
+				"UI/mock/templates/host.js"
+			],
+			[
+				"ser",
+				"UI/mock/serve.js"
+			],
+			[
+				"mocktran",
+				"UI/mock/templates/transportNodes.js"
+			],
+			[
+				"serve",
+				"UI/mock/serve.js"
+			],
+			[
+				"ippoolstore",
+				"UI/src/modules/objectLibrary/js/store/IpPoolsStore.js"
+			],
+			[
+				"ippool",
+				"UI/src/modules/objectLibrary/js/store/IpPoolsStore.js"
+			],
+			[
+				"trans",
+				"Proton API/root/nsx-switching/transportnode.yml"
+			],
+			[
+				"create",
+				"UI/src/modules/fabric/js/view/hosts/CreateTransportNodeDialog.js"
+			],
+			[
+				"transport",
+				"Proton API/root/nsx-switching/transportnode.yml"
+			],
+			[
+				"searchym",
+				"Proton API/root/nsx-search/search.yml"
+			],
+			[
+				"mocktrans",
+				"UI/mock/templates/transportNodes.js"
+			],
+			[
+				"transpor",
+				"Proton API/root/nsx-switching/transportnode.yml"
+			],
+			[
+				"addtra",
+				"UI/src/modules/fabric/js/view/transportnodes/AddTransportNodeDialog.js"
+			],
+			[
+				"addhosts",
+				"UI/src/modules/fabric/js/view/transportnodes/AddHostSwitch.js"
+			],
+			[
+				"addippools",
+				"UI/src/modules/objectLibrary/js/view/ippools/AddEditIpPoolDialog.js"
+			],
+			[
+				"ippools",
+				"UI/src/modules/objectLibrary/js/model/IpPoolsModel.js"
+			],
+			[
+				"ippoolscon",
+				"UI/src/modules/objectLibrary/js/controller/IpPoolsController.js"
+			],
+			[
+				"objectlib",
+				"UI/src/modules/objectLibrary/js/ObjectLibraryConst.js"
+			],
+			[
+				"fabricpro",
+				"UI/src/modules/fabric/locale/en_US/fabricRB.properties"
+			],
+			[
+				"ippoolsc",
+				"UI/src/modules/fabric/js/view/transportnodes/IPPoolsCombo.js"
+			],
+			[
+				"fabricm",
+				"UI/src/modules/fabric/FabricModule.js"
+			],
+			[
+				"app",
+				"UI/src/nsx/js/app.js"
+			],
+			[
+				"policymain",
+				"UI/src/modules/policy/js/view/Main.js"
+			],
+			[
+				"modelhosts",
+				"UI/src/modules/fabric/js/model/hostswitch/HostSwitchSpec.js"
+			],
+			[
+				"pom.",
+				"UI/pom.xml"
+			],
+			[
+				"packa",
+				"UI/package.json"
+			],
+			[
+				"mockhosts",
+				"UI/mock/templates/host.js"
+			],
+			[
+				"ippoolss",
+				"UI/src/modules/objectLibrary/js/store/IpPoolsStore.js"
+			],
+			[
+				"ippooldialo",
+				"UI/src/modules/objectLibrary/js/view/ippools/AddEditIpPoolDialog.js"
+			],
+			[
+				"logicalcom",
+				"UI/src/modules/routing/js/common/LogicalSwitchCombo.js"
+			],
+			[
+				"ippoolco",
+				"UI/src/modules/objectLibrary/js/controller/IpPoolsController.js"
+			],
+			[
+				"l2portstore",
+				"UI/src/modules/switching/js/store/L2PortStore.js"
+			],
+			[
+				"l2switchdesiredmodel",
+				"UI/src/modules/switching/js/model/L2SwitchDesiredModel.js"
+			],
+			[
+				"ippoolsmodel",
+				"UI/src/modules/objectLibrary/js/model/IpPoolsModel.js"
+			],
+			[
+				"l2switchnonaggregatedstore",
+				"UI/src/modules/switching/js/store/L2SwitchNonAggregatedStore.js"
+			],
+			[
+				"nsxconst",
+				"UI/src/nsx/js/misc/Const.js"
+			],
+			[
+				"addhost",
+				"UI/src/modules/fabric/js/view/transportnodes/AddHostSwitch.js"
+			],
+			[
+				"swit",
+				"UI/src/modules/switching/js/SwitchingConst.js"
+			],
+			[
+				"switchingco",
+				"UI/src/modules/switching/js/SwitchingConst.js"
+			],
+			[
+				"ippoo",
+				"UI/src/modules/objectLibrary/js/store/IpPoolsStore.js"
+			],
+			[
+				"switchesadd",
+				"UI/src/modules/switching/js/view/switches/AddEditDialog.js"
+			],
+			[
+				"base",
+				"UI/src/modules/common/js/view/BaseDialog.js"
+			],
+			[
+				"cluster",
+				"UI/src/modules/admin/js/view/overview/ClusterContainer.js"
+			],
+			[
+				"ippoolsm",
+				"UI/src/modules/objectLibrary/js/model/IpPoolsModel.js"
+			],
+			[
+				"ippooladdeditsubnetsgrid",
+				"UI/src/modules/objectLibrary/js/view/ippools/IpPoolAddEditSubnetsGrid.js"
+			],
+			[
+				"baseinlineeditgridview",
+				"UI/src/modules/common/js/view/BaseInlineEditGridView.js"
+			],
+			[
+				"ippooladd",
+				"UI/src/modules/objectLibrary/js/view/ippools/IpPoolAddEditSubnetsGrid.js"
+			],
+			[
+				"ippooldi",
+				"UI/src/modules/objectLibrary/js/view/ippools/AddEditIpPoolDialog.js"
+			],
+			[
+				"switchaddeditdialog",
+				"UI/src/modules/switching/js/view/switches/AddEditDialog.js"
+			],
+			[
+				"createrouterpo",
+				"UI/src/modules/routing/js/view/routerports/AddEditRouterPort.js"
+			],
+			[
+				"clustercon",
+				"UI/src/modules/admin/js/view/overview/ClusterContainer.js"
+			],
+			[
+				"glyp",
+				"UI/src/nsx/js/misc/Glyphs.js"
+			],
+			[
+				"ipaddre",
+				"UI/src/modules/fabric/js/model/hostswitch/IPAddress.js"
+			],
+			[
+				"cook",
+				"UI/cookieFetcher.js"
+			],
+			[
+				"transportnode",
+				"UI/src/modules/fabric/js/model/transportnodes/TransportNode.js"
+			],
+			[
+				"hostswitch",
+				"UI/src/modules/fabric/js/model/hostswitch/HostSwitch.js"
+			],
+			[
+				"mockteanspo",
+				"UI/mock/templates/transportNodes.js"
+			],
+			[
+				"templhost",
+				"UI/mock/templates/host.js"
+			],
+			[
+				"ipassign",
+				"UI/src/modules/fabric/js/model/hostswitch/IpAssignmentSpec.js"
+			],
+			[
+				"fabrcon",
+				"UI/src/modules/fabric/js/controller/FabricController.js"
+			],
+			[
+				"fabric",
+				"UI/src/modules/fabric/FabricModule.js"
+			],
+			[
+				"hosts",
+				"UI/src/modules/fabric/js/model/hostswitch/HostSwitch.js"
+			],
+			[
+				"modeltransportnodea",
+				"UI/src/modules/fabric/js/model/transportnodes/TransportNodeAggInfo.js"
+			],
+			[
+				"staticippoo",
+				"UI/src/modules/fabric/js/model/hostswitch/StaticIpPoolSpec.js"
+			],
+			[
+				"ipass",
+				"UI/src/modules/fabric/js/model/hostswitch/IpAssignmentSpec.js"
+			],
+			[
+				"pack",
+				"UI/package.json"
+			],
+			[
+				"grunt",
+				"UI/Gruntfile.js"
+			],
+			[
+				"cooki",
+				"UI/cookieFetcher.js"
+			],
+			[
+				"uplinkhostswitchprofiledto",
+				"UI/src/modules/fabric/js/model/uplinkprofiles/UplinkHostSwitchProfileDto.js"
+			],
+			[
+				"uplinkp",
+				"UI/src/modules/fabric/js/store/uplinkprofiles/UplinkProfileStore.js"
+			],
+			[
+				"deittra",
+				"UI/src/modules/fabric/js/view/transportnodes/EditTransportNodeDialog.js"
+			],
+			[
+				"pnic",
+				"UI/src/modules/fabric/js/view/hosts/PhysicalNicContainer.js"
+			],
+			[
+				"modeltransport",
+				"UI/src/modules/fabric/js/model/transportnodes/TransportNode.js"
+			],
+			[
+				"index",
+				"UI/src/index.html"
+			],
+			[
+				"pom",
+				"UI/pom.xml"
+			],
+			[
+				"mockhost",
+				"UI/mock/templates/host.js"
+			],
+			[
+				"fabrichostgrid",
+				"UI/src/modules/fabric/js/view/hosts/GridView.js"
+			],
+			[
+				"",
+				"UI/src/modules/fabric/js/model/hostswitch/IpAssignmentSpec.js"
+			],
+			[
+				"editprofile",
+				"UI/src/modules/switching/js/view/BaseEditorManageProfile.js"
+			],
+			[
+				"addprofile",
+				"UI/src/modules/fabric/js/view/uplinkprofiles/AddEditUplinkProfileDialog.js"
+			],
+			[
+				"addhostsw",
+				"UI/src/modules/fabric/js/view/transportnodes/AddHostSwitch.js"
+			],
+			[
+				"basedia",
+				"UI/src/modules/common/js/view/BaseDialog.js"
+			],
+			[
+				"edittrans",
+				"UI/src/modules/fabric/js/view/transportnodes/EditTransportNodeDialog.js"
+			],
+			[
+				"modelhost",
+				"UI/src/modules/fabric/js/model/hostswitch/HostSwitch.js"
+			],
+			[
+				"modelhostsw",
+				"UI/src/modules/fabric/js/model/hostswitch/HostSwitch.js"
+			],
+			[
+				"ipaddress",
+				"UI/src/modules/fabric/js/model/transportnodes/IPAddress.js"
+			],
+			[
+				"transportnnodes",
+				"UI/src/modules/fabric/js/store/transportnodes/TransportNodeStore.js"
+			],
+			[
+				"addhostswi",
+				"UI/src/modules/fabric/js/view/transportnodes/AddHostSwitch.js"
+			],
+			[
+				"l2qosprofiledesiredmodel",
+				"UI/src/modules/switching/js/model/L2QoSProfileDesiredModel.js"
+			],
+			[
+				"transportnodegridview",
+				"UI/src/modules/fabric/js/view/transportnodes/GridView.js"
+			],
+			[
+				"addtr",
+				"UI/src/modules/fabric/js/view/transportnodes/AddTransportNodeDialog.js"
+			],
+			[
+				"licensmodel",
+				"UI/src/modules/admin/js/model/LicenseModel.js"
+			],
+			[
+				"transportnodes",
+				"UI/mock/templates/transportNodes.js"
+			],
+			[
+				"applian",
+				"UI/mock/templates/applianceStats.js"
+			],
+			[
+				"mock",
+				"UI/mock/mockConfig.js"
+			],
+			[
+				"mocknode",
+				"UI/mock/templates/fabricNodes.js"
+			],
+			[
+				"modeltransportnode",
+				"UI/src/modules/fabric/js/model/transportnodes/TransportNode.js"
+			],
+			[
+				"createtransportnodedialog",
+				"UI/src/modules/fabric/js/view/hosts/CreateTransportNodeDialog.js"
+			],
+			[
+				"addtrans",
+				"UI/src/modules/fabric/js/view/transportnodes/AddTransportNodeDialog.js"
+			],
+			[
+				"mockco",
+				"UI/mock/mockConfig.js"
+			],
+			[
+				"mocktrasn",
+				"UI/mock/templates/transportNodes.js"
+			],
+			[
+				"firewallmodu",
+				"UI/src/modules/firewalling/FirewallingModule.js"
+			],
+			[
+				"switchingedito",
+				"UI/src/modules/switching/js/view/profiles/EditorSummary.js"
+			],
+			[
+				"formobjectns",
+				"UI/src/modules/baseFw/js/view/common/FormObjectNsGroup.js"
+			],
+			[
+				"keygrid",
+				"UI/src/modules/dne/js/view/keypolicy/KeyPolicyGrid.js"
+			],
+			[
+				"bundler",
+				"UI/bundler.js"
+			],
+			[
+				"dnemod",
+				"UI/src/modules/dne/DneModule.js"
+			],
+			[
+				"dne",
+				"UI/src/modules/dne/DneModule.js"
+			],
+			[
+				"fab",
+				"UI/src/modules/fabric/FabricModule.js"
+			],
+			[
+				"routeman",
+				"UI/src/nsx/js/misc/RouteManager.js"
+			],
+			[
+				"firewallingcon",
+				"UI/src/modules/firewalling/js/controller/FirewallingController.js"
+			],
+			[
+				"firewalling",
+				"UI/src/modules/firewalling/FirewallingModule.js"
+			],
+			[
+				"fabricmodu",
+				"UI/src/modules/fabric/FabricModule.js"
+			],
+			[
+				"mockfire",
+				"UI/mock/templates/firewalling.js"
+			],
+			[
+				"mockuti",
+				"UI/mock/utils.js"
+			],
+			[
+				"firewallingmo",
+				"UI/src/modules/firewalling/FirewallingModule.js"
+			],
+			[
+				"routingmod",
+				"UI/src/modules/routing/RoutingModule.js"
+			],
+			[
+				"nat",
+				"UI/src/modules/nat/NATModule.js"
+			],
+			[
+				"searchcon",
+				"UI/src/modules/search/js/SearchConst.js"
+			],
+			[
+				"fabricmodule",
+				"UI/src/modules/fabric/FabricModule.js"
+			],
+			[
+				"routeadvermain",
+				"UI/src/modules/routing/js/view/routeadvertisement/Main.js"
+			],
+			[
+				"bundl",
+				"UI/bundler.js"
+			],
+			[
+				"gruntfile",
+				"UI/Gruntfile.js"
+			],
+			[
+				"bun",
+				"UI/bundler.js"
+			],
+			[
+				"hostgrid",
+				"UI/src/modules/fabric/js/view/hosts/GridView.js"
+			],
+			[
+				"json",
+				"UI/src/nsx/js/util/JsonRpcUtil.js"
+			],
+			[
+				"jshint",
+				"UI/.jshintrc"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 185.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
