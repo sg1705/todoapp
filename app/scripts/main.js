@@ -16,7 +16,6 @@ class TodoService {
 var todoService = new TodoService();
 
 var fakeSource = Rx.Observable.interval(5000);
-
 var fakeSourceMappedStream = fakeSource.map(
   d => {
     return new Todo({
@@ -36,8 +35,8 @@ var addTodoButtonClickStream = Rx.Observable.fromEvent(addTodoButton, 'click');
 var todoInputStream = addTodoButtonClickStream.map(
   d => {
     return new Todo({
-      'name': 'hard coded',
-      'assignee': todoInput.value,
+      'name': todoInput.value,
+      'assignee': 'hard coded',
       'creator': 'hard coded'
     })
 });
@@ -47,12 +46,17 @@ var todoInputStream = addTodoButtonClickStream.map(
 todoService.incomingTodoStream = Rx.Observable.merge(fakeSourceMappedStream, todoInputStream);
 
 
-todoService.incomingTodoStream.subscribe(
-  d => {
-    console.log(d);
-  }
-  );
 
+var addTodo = (data) => {
+  var li = document.createElement('li');
+  var textNode = document.createTextNode(data.name);
+  li.appendChild(textNode);
+  todoList.appendChild(li);
+};
+
+todoService.incomingTodoStream.subscribe(
+  data => addTodo(data)
+);
 
 
 

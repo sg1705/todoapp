@@ -74,6 +74,22 @@
     <script src="/bower_components/bootstrap-sass/assets/javascripts/bootstrap/tab.js"></script>
     <!-- endbuild -->
 
+    <script src="https://www.gstatic.com/firebasejs/3.0.5/firebase.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/3.0.5/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/3.0.5/firebase-auth.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/3.0.5/firebase-database.js"></script>
+
+    <script>
+      // Initialize Firebase
+      var config = {
+        apiKey: "AIzaSyCEaIdmG5Z965vhfukOGAV_vJpplJVcREI",
+        authDomain: "todoapp-474db.firebaseapp.com",
+        databaseURL: "https://todoapp-474db.firebaseio.com",
+        storageBucket: "todoapp-474db.appspot.com",
+      };
+      firebase.initializeApp(config);
+    </script>
+
     <!-- build:js scripts/main.js -->
     <script src="scripts/main.js"></script>
     <!-- endbuild -->
