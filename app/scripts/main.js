@@ -15,7 +15,7 @@ class TodoService {
 
 var todoService = new TodoService();
 
-var fakeSource = Rx.Observable.interval(5000);
+var fakeSource = Rx.Observable.interval(20000);
 var fakeSourceMappedStream = fakeSource.map(
   d => {
     return new Todo({
@@ -41,9 +41,28 @@ var todoInputStream = addTodoButtonClickStream.map(
     })
 });
 
+var firebaseTodoStream = new Rx.Subject();
+var todosRef = firebase.database().ref('todos/').limitToLast(10);
+todosRef.on('child_added', function(data) {
+  firebaseTodoStream.onNext(data.val());
+  console.log('Fetched from firebase: ');
+  console.log(data.val());
+});
 
+todoInputStream.subscribe(
+  data => {
+  // Get a key for a new Post.
+  var newTodoKey = firebase.database().ref().child('todos').push().key;
+// console.log(newTodoKey);
+  // Write the new post's data simultaneously in the posts list and the user's post list.
+  var updates = {};
+  updates['/todos/' + newTodoKey] = data;
+  // updates['/user-todos/' + uid + '/' + newTodoKey] = data;
 
-todoService.incomingTodoStream = Rx.Observable.merge(fakeSourceMappedStream, todoInputStream);
+  return firebase.database().ref().update(updates);
+  });
+
+todoService.incomingTodoStream = Rx.Observable.merge(firebaseTodoStream);
 
 
 
